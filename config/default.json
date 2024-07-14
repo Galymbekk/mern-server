@@ -1,0 +1,6 @@
+{
+    "port": 8000,
+    "jwtSecret": "galymbek mern project",
+    "mongoUri":"mongodb+srv://galymbek:1234gala@cluster0.9qbjsmu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "baseUrl":"http://localhost:8000"
+}
